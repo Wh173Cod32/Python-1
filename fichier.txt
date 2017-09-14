@@ -1,1 +1,2 @@
-Test
+Ce repository est l'ensemble de pleins de programmes en python, pour montrer 
+d'exemples pour chaque notion du langage de programmation Python.
